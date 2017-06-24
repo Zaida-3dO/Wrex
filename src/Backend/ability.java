@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package Backend;
-
+//ggg
 /**
  *All the abilities the Cards can Have
  * @author Opsi Jay
